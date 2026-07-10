@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 2)**
 
-**Date:** ___________
+**Date:** 23-06-2026
 
 Today was the second day of my Data Analysis training. The session focused on **Python Operators**, which are used to perform different types of operations on variables and values.
 
