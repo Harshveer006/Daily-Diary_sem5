@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 14)**
 
-**Date:** ___________
+**Date:** 8-07-2026
 
 Today was the fourteenth day of my Data Analysis training. The session focused on advanced concepts of **NumPy** and **Pandas**, where I practiced performing numerical computations and analyzing real-world datasets using Python.
 
