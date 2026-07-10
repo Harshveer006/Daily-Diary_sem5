@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 5)**
 
-**Date:** ___________
+**Date:** 26-06-2026
 
 Today was the fifth day of my Data Analysis training. The session focused on an in-depth understanding of **User-Defined Functions** and **Lists**, including the use of functions with lists and **List Comprehension**.
 
