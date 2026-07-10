@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 7)**
 
-**Date:** ___________
+**Date:** 30-06-2026
 
 Today was the seventh day of my Data Analysis training. The session focused on **Function Arguments** in Python, including **Positional Arguments, Keyword Arguments, Default Arguments, `*args`, `**kwargs`**, and the concept of **Recursion**. These topics enhanced my understanding of writing flexible and efficient Python functions.
 
