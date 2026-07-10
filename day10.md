@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 10)**
 
-**Date:** ___________
+**Date:** 3-07-2026
 
 Today was the tenth day of my Data Analysis training. The session focused on **NumPy**, one of the most important Python libraries used for numerical computing and data analysis. I learned how NumPy provides efficient tools for working with arrays and performing mathematical operations on large datasets.
 
