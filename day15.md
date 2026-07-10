@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 15)**
 
-**Date:** ___________
+**Date:** 9-07-2026
 
 Today was the fifteenth day of my Data Analysis training. The session focused on **Streamlit**, a Python framework used to build interactive web applications for data analysis and machine learning projects. I learned how Streamlit simplifies the process of converting Python scripts into user-friendly web applications without requiring knowledge of HTML, CSS, or JavaScript.
 
