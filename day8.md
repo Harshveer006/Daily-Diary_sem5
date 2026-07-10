@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 8)**
 
-**Date:** ___________
+**Date:** 1-07-2026
 
 Today was the eighth day of my Data Analysis training. The session focused on **`map()`, `filter()`, Closures, and Nested Functions** in Python. These concepts helped me understand functional programming techniques and how to write cleaner, more efficient, and reusable code.
 
