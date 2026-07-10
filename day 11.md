@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 11)**
 
-**Date:** ___________
+**Date:** 4-07-2026
 
 Today was the eleventh day of my Data Analysis training. The session focused on **Pandas**, a powerful Python library used for data manipulation, analysis, and handling structured datasets. I learned about its core data structures and various techniques for processing and analyzing data efficiently.
 
