@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 4)**
 
-# **Date:** ___________
+# **Date:** 25-06-2026
 
 Today was the fourth day of my Data Analysis training. The session focused on **User-Defined Functions, Classes & Objects, the `__init__` Method, Single Inheritance, and Multilevel Inheritance** in Python. These concepts introduced the fundamentals of object-oriented programming (OOP), which helps in writing organized, reusable, and efficient code.
 
