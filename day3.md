@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 3)**
 
-**Date:** ___________
+**Date:** 24-06-2026
 
 Today was the third day of my Data Analysis training. The session focused on **Python Data Types**, with special emphasis on the collection data types: **Lists, Tuples, Sets, and Dictionaries**. These data structures are essential for storing and organizing data efficiently in Python.
 
