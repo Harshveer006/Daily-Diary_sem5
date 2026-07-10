@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 6)**
 
-**Date:** ___________
+**Date:** 20-06-2026
 
 Today was the sixth day of my Data Analysis training. The session focused on **Data Structures**, which are used to organize, store, and manage data efficiently. The topics covered included **Stack, Queue, Linked List, and Tree (Binary Search Tree)**.
 
