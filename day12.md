@@ -1,6 +1,6 @@
 # **Data Analysis Training – Daily Diary (Day 12)**
 
-**Date:** ___________
+**Date:** 6-07-2026
 
 Today was the twelfth day of my Data Analysis training. The session focused on strengthening Python programming skills through practical exercises covering loops, string operations, user-defined functions, recursion, and basic object-oriented programming concepts.
 
